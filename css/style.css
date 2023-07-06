@@ -1,0 +1,762 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.colorindex{
+    margin: 0;
+    background-color: #efefef;
+}
+
+#titulo {
+    background-color: #364552;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.imagen {
+    width: 100px;
+    
+}
+
+
+.ferrari1 {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+   position: relative;
+    display:inline-block;
+    left: 15%;
+}
+
+
+.imagen2 {
+    width: 100px;
+    
+}
+
+ .lamborghini1 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    display:inline-block;
+    height: 200px;
+    width: 200px;
+    left: 20%;
+} 
+
+.imagen3 {
+    width: 100px;
+   
+}
+
+.mercedes {
+     width: 200px;
+     margin: 0 auto;
+     text-align: center;
+     position: relative;
+     display:inline-block;
+     left: 25%;
+ } 
+
+ .imagen4 {
+    width: 100px;
+    
+}
+
+.mclaren {
+     width: 200px;
+     margin: 0 auto;
+     text-align: center;
+     position: relative;
+     display:inline-block;
+     left: 30%;
+ } 
+
+ .colorh3{
+    color: black;
+    text-decoration: none;
+ }
+
+ section article:hover {
+    box-shadow:0 0.2rem 0.5rem rgba(0,0,0,0.3);
+}
+
+.charlablog{
+    text-align: center;
+}
+
+.marcas100{
+    background-color: gray;
+    color: black;
+}
+
+.marcas{
+    text-align: center;
+
+}
+
+
+
+.links a:active{
+  background-color: black;
+}
+
+section article {
+    transition: all 0.3s ease;
+    background-color: #fff;
+    margin: 2rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    cursor:pointer;
+}
+
+
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .video2 {
+    margin-left: -10px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+  }
+  
+  .italiana {
+  width: 400px;
+
+   
+  }
+
+.texto8 {
+    margin-left: 15px;
+}
+
+ .calendario {
+    border-collapse: collapse;
+    width: 200px;
+    margin-left: 42%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+  
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+  
+.dias{
+    background-color: #f2f2f2;
+  }
+  
+ .fechas {
+    background-color: #ffffff;
+  }
+
+  
+td:hover{
+    background-color: #aaa;
+    cursor: pointer;
+}
+  
+.highlight {
+    background-color: #cccccc;
+  }
+  h5{
+    border: 1px solid black;
+    padding: 10px;
+    width: 600px;
+    
+    }
+h5{
+border: 1px solid black;
+padding: 10px;
+width: 463px;
+margin-left: 34%;
+}
+
+.precio{
+    margin-top: -50px;
+}
+
+.EMPContacto{
+    margin-top: -50px;
+}
+
+  .MDPContacto {
+    width: 200px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 14px;
+    color: #555;
+
+  }
+
+
+
+.footerindex {
+    background-color: #222;
+    padding: 2.5rem;
+    color:#fff;
+}
+
+/* footer section {
+    float:right;
+} */
+
+.pindex {
+    margin:0;
+margin-right: 60px;
+}
+
+
+
+
+.encuadrado {
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  .mail {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  button[type="reset"] {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="reset"]:hover {
+    background-color: #333;
+  }
+  
+
+
+
+
+/* ARRANCA FERRARI */
+
+
+
+
+  .ferraripagina{
+    background-color: rgb(56, 13, 12);
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 30;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #383838;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+nav ul li a:hover {
+  background-color: #ddd;
+}
+
+
+
+
+.imagen5 {
+    width: 200px;
+    position: absolute;
+    top: 70px;
+    left:-20px;
+}
+
+.imagen6 {
+    width: 400px;
+    position: absolute;
+    top:-75px ;
+    left: 520px;
+}
+
+.colorbody {
+    color: rgb(193, 193, 193);
+}
+
+.texto10{
+    margin-top: 270px;
+    margin-left: 40px; 
+    font-size: 20px; 
+    width: 650px;
+}
+
+.video10{
+   float: right;
+   margin-right: 60px;
+   margin-top: -230px;
+}
+
+.hrferrari{
+    margin-top: 150px;
+}
+  
+.modelos{
+    text-align: center;
+}
+
+.autos1 {
+    display: flex;
+  align-items: center;
+}
+
+.modelosferrari{
+    margin-left: 220px;
+    margin-top: 75px;
+}
+
+.enzo{
+    width: 450px;
+    height: auto;
+    margin-left:70px;
+    margin-right: 70px;
+    
+}
+
+.textoenzo {
+   width: 400px;
+}
+
+.laferrari{
+    width: 450px;
+    height: auto;
+    margin-left:70px;
+    margin-right: 70px;
+ }
+
+ .autos2 {
+    display: flex;
+  align-items: center;
+}
+
+.textolaferrari{
+    width: 400px;
+}
+
+.autos3 {
+    display: flex;
+  align-items: center;
+}
+
+.f1ferrari{
+    width: 450px;
+    height: auto;
+    margin-left:70px;
+    margin-right: 70px;
+}
+
+.textof1{
+    width: 400px;
+}
+
+.valorautos{
+    text-align: center;
+}
+
+.tabla30 {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgb(56, 13, 12);
+    margin-left: 34%;
+   margin-top: 30px;
+   margin-bottom: 30px;
+  }
+  
+ .tabla30 {
+    border: 1px solid white;
+    padding: 8px;
+    text-align: center;
+    color: white; 
+
+  }
+
+
+
+
+/* ARRANCA LAMBORGHINI */
+
+
+
+
+
+ html.colorlamborghini{
+    background-color: rgb(221, 221, 52);
+    font-family: Arial, sans-serif;
+}
+#carouselExampleIndicators {
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.imagenlamb{
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 60px;
+    left:-20px;
+}
+
+.imagenlamb1 {
+    width: 630px;
+    position: absolute;
+    top:-75px ;
+    left: 400px;
+}
+
+.textolamb{
+    width: 600px;
+    font-size: 20px;
+    margin-top: 230px;
+    margin-left: 40px;
+}
+
+.creador{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.ferruccio{
+    margin-left: 100px;
+    width: 400px;
+    height: auto;
+    margin-top: 200px;
+}
+
+.creador2{
+    text-align: right;
+    margin-right: 320px;
+}
+
+.muerte{
+    margin-right: 65px;
+    margin-top: -12px;
+}
+
+  .modelolamb{
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+
+  .fundacion{
+    margin-top: 70px;
+  }
+  
+  .fundacionlamb{
+    margin-left: 140px;
+  }
+
+  .ubicacion3{
+   width: 450px;
+   height: 300px;
+   margin-left: 55px;
+  }
+
+  .historialamb1{
+    border: 2px solid black;
+    width: 500px;
+    font-size: 17px;
+    margin-left: 57%;
+    margin-top: 50px;
+    
+    
+  }
+
+  .colorlambo2{
+    background-color: rgb(221, 221, 52);
+  }
+
+.historialamb{
+    font-size: 17px;
+    margin-left: 67%;
+    margin-top: -341px;
+   
+}
+
+  .footerlamb {
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin-left: -10px;
+    margin-top:30px;
+  }
+
+
+
+/* ARRANCA MERCEDES */
+
+
+
+  .fondomerc{
+    background-color: rgb(147, 147, 147)
+}
+
+.imagenmerc{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 90px;
+    left:30px;
+}
+
+.textomerc{
+    font-size: 85px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 70px;
+    color: rgb(49, 49, 49);
+}
+
+.containermerc {
+    display: flex;
+  }
+  
+  .image-wrapper {
+    flex: 0 0 40%; 
+  }
+
+  .primermodelomerc{
+    font-size: 20px;
+  }
+  
+  .text-wrapper {
+    flex: 1;  
+    padding-left: 20px; 
+    width: 40px;
+  }
+  
+  .image-wrapper img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .prlogo{
+    width: 400px;
+    height: auto;
+    margin-left: 70%;
+    margin-top: -200px;
+}
+
+.textoprimerlogomerc{
+    font-size: 20px;
+  width: 60%;
+  margin-top: 110px;
+  margin-left: 30px;
+  }
+
+.tablemerc{
+    width: 45%;
+    border-collapse: collapse;
+    margin-top: 70px;
+    margin-left: 27%;
+}
+
+
+
+.tdmerc{
+    border: solid 1px #eee;
+    padding: 5px;
+}
+
+.thmerc1{
+    border: solid 1px #eee;
+    padding: 5px;
+    background-color: rgb(228, 228, 228);
+    text-align: center;
+}
+
+
+.trmerc{
+    text-align: center;
+    background-color: rgb(188, 188, 188);
+}
+
+
+
+.trmerc:hover{
+    background-color: #aaa;
+    cursor: pointer;
+}
+
+
+
+
+
+.linkanimadomerc {
+    display: inline-block;
+    position: relative;
+    color: #000;
+    text-decoration: none;
+   margin-left: 74%;
+   margin-top: 100px; 
+  }
+  
+  .linkanimadomerc::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .linkanimadomerc:hover::after {
+    transform: scaleX(1);
+  }
+  
+
+
+.footermerc {
+    background: #fffcfc;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin-left: -10px;
+    margin-top:30px;
+  }
+
+
+
+
+
+/* ARRANCA MCLAREN */
+
+
+
+  .fondomac{
+    background-color: rgb(255, 152, 0) ;
+}
+
+
+
+.imagenmac{
+    width: 630px;
+    position: absolute;
+    top:-85px ;
+    left: 400px;
+}
+
+
+.videomac{
+    float: left;
+    margin-top: 50px;
+    margin-left: 60px;
+    height: 300;
+}
+
+.automac{
+    font-size: 20px;
+    width: 600px;
+    margin-left: 50%;
+    margin-top: 260px;
+}
+
+
+.ayrtonmac{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-top: 250px;
+}
+
+.imagenmac1{
+    align-items: center;
+    margin-left: 41%;
+    width: 300px;
+}
+
+
+.h1mac{
+    font-size: 20px;
+    width: 600px;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 2px solid black;
+    padding: 10px;
+}
+
+
+
+.fundacionmac{
+    text-align: left;
+    margin-left: 50px;
+}
+
+.h3mac{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.imagenmac3{
+    width: 600px;
+    height: auto;
+    float: right;
+    margin-top: -400px;
+    margin-right: 50px;
+}
+
+.h4mac{
+    font-size: 20px;
+    text-align: right;
+    margin-right: 150px;
+    margin-top: 80px;
+    
+  
+}
+
+.footermac {
+    background: #000000;
+    color: #d0d0d0;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin-left: -10px;
+    margin-top:30px;
+  }
+  
