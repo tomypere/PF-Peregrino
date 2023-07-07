@@ -20,7 +20,7 @@ header h1 {
 
 .imagen {
     width: 100px;
-    
+    text-decoration: none;
 }
 
 
@@ -253,7 +253,76 @@ margin-right: 60px;
 
 
 
-/* ARRANCA FERRARI */
+  @media (max-width: 390px) {
+    .ferrari1,
+    .lamborghini1,
+    .mercedes,
+    .mclaren {
+      display: block;
+      margin: 0 auto 5px;
+      width: 80%;
+      left: initial;
+    }
+   
+
+    .mercedes{
+      margin-top: -40px;
+    }
+
+
+      .video {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      .video2 {
+        margin: 0 auto;
+        max-width: 300px;
+      }
+    
+      .video2 iframe {
+        width: 100%;
+        height: auto;
+      }
+    
+      .italiana {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+      }
+
+
+      h5{
+        margin: 0 auto;
+        max-width: 350px;
+        max-height: 400px;
+      }
+
+      .calendario {
+        margin: 0 auto;
+        }
+
+      .precio{
+        margin-top: 80px;
+      }
+
+      .footerindex{
+        font-size: 15px;
+      }
+
+    }
+  
+  
+
+  
+
+
+
+
+
+
+  /* ARRANCA FERRARI */
 
 
 
@@ -261,6 +330,8 @@ margin-right: 60px;
   .ferraripagina{
     background-color: rgb(56, 13, 12);
 }
+
+
 
 nav ul {
   list-style-type: none;
@@ -405,7 +476,76 @@ nav ul li a:hover {
 
   }
 
+  @media (max-width: 390px) {
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .links li {
+      flex-basis: 50%;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    
+    .links li a {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
 
+    .imagen5{
+      margin-top: 50px;
+      width: 100px;
+      margin-left: 15px;
+    }
+
+    .imagen6{
+      margin-left: -410px;
+      width: 200px;
+      margin-top: 123px;
+    }
+
+    .texto10{
+      margin-top: 100px;
+      margin-left: 10px;
+      text-align: center;
+      width: 350px;
+      font-size: 20px;
+      
+    }
+
+    /* .video10{
+     
+      margin-top:20px;
+      width: 350;
+
+      margin-right: 100px;
+    } */
+
+
+    @media (max-width: 390px) {
+      .video10 {
+        max-width: 100%;
+        margin-top:30px;
+        margin-left:50px;
+      }
+    
+      .video10 iframe {
+        max-width: 100%;
+        max-height: 100%;
+      }
+    }
+    
+
+  }
+  
+  
+  
+  
+  
 
 
 /* ARRANCA LAMBORGHINI */
