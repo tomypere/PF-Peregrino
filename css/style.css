@@ -517,14 +517,7 @@ nav ul li a:hover {
       
     }
 
-    /* .video10{
-     
-      margin-top:20px;
-      width: 350;
-
-      margin-right: 100px;
-    } */
-
+    
 
     @media (max-width: 390px) {
       .video10 {
@@ -537,6 +530,100 @@ nav ul li a:hover {
         max-width: 100%;
         max-height: 100%;
       }
+
+      .modelosferrari{
+        margin-left: 120px;
+        margin-top: 50px;
+      }
+
+
+
+      .autos1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .enzo {
+        width: 300px;
+        height: auto;
+    }
+    
+    .textoenzo {
+        margin-top: 10px;
+        font-size: 16px;
+        line-height: 1.5;
+        width: 350px;
+    }
+    
+
+    .autos2 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-bottom: 20px;
+  }
+  
+  .laferrari {
+      width: 300px;
+      height: auto;
+  }
+  
+  .textolaferrari {
+      margin-top: 10px;
+      font-size: 16px;
+      line-height: 1.5;
+      width: 350px;
+  }
+
+      
+
+  .autos3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.f1ferrari {
+    width: 300px;
+    height: auto;
+}
+
+.textof1 {
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 350px;
+}
+
+
+.tabla30 {
+  max-width: 350px;
+  width: 100%;
+  border-collapse: collapse;
+  margin-left: 13px;
+}
+
+.tabla30 th, .tabla30 td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.tabla30 th {
+  background-color: #060505;
+  text-align: center;
+}
+
+.tabla30 tr:nth-child(even) {
+  background-color: #040404;
+}
+
+      
     }
     
 
@@ -660,6 +747,82 @@ nav ul li a:hover {
     margin-left: -10px;
     margin-top:30px;
   }
+
+
+
+
+  @media (max-width: 390px) {
+
+    .imagenlamb{
+      margin-top: 50px;
+      width: 110px;
+      margin-left: 15px;
+    }
+
+    .imagenlamb1{
+      margin-left: -320px;
+      width: 250px;
+      margin-top: 140px;
+    }
+
+    .creador {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-bottom: 20px;
+  }
+  
+  .ferruccio {
+      width: 300px;
+      height: auto;
+      margin-top: 40px;
+      margin-right: 130px;
+  }
+  
+  .textolamb {
+    margin-left: -45px;
+      margin-top: 80px;
+      font-size: 16px;
+      line-height: 1.5;
+      width: 350px;
+  }
+
+  .creador2{
+    margin-left: 150px;
+    text-align: center;
+  }
+
+  .muerte{
+    width: 100px;
+  }
+
+.fundacionlamb{
+  margin-top: -30px;
+  margin-left: 20px;
+ 
+}
+
+.ubicacion3{
+  width: 350px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.historialamb{
+  margin-top: 80px;
+  margin-left: 90px;
+  font-size: 20px;
+}
+.historialamb1{
+  margin-left: 25px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+  }
+
 
 
 
@@ -801,6 +964,74 @@ nav ul li a:hover {
   }
 
 
+  @media (max-width: 390px) {
+
+    .imagenmerc{
+      margin-top: 40px;
+      width: 60px;
+      margin-left: -10px;
+    }
+
+    .textomerc{
+      margin-left: 50px;
+      font-size: 35px;
+      margin-top: 30px;
+    }
+
+    .image-wrapper{
+      margin-top: 10px
+    }
+
+    .primermodelomerc{
+      margin-left: -130px;
+      font-size: 18px;
+      width: 300px;
+      text-align: center;
+    }
+
+    .prlogo{
+      margin-top: -5px;
+      margin-left: 40px;
+      width: 300px;
+      height: auto;
+    }
+
+    .textoprimerlogomerc{
+      margin-top: 100px;
+      text-align: center;
+      margin-left: 40px;
+      width: 300px;
+    }
+
+    .tablemerc {
+      max-width: 350px;
+      width: 100%;
+      border-collapse: collapse;
+      margin-left: 13px;
+    }
+    
+    .tablemerc th, .tablamerc td {
+      padding: 8px;
+      border: 1px solid #aaa;
+    }
+    
+    .tablemerc th {
+      background-color: #ffffff;
+      text-align: center;
+    }
+    
+    .tablemerc tr:nth-child(even) {
+      background-color: #aaa;
+    }
+
+.linkanimadomerc{
+  margin-left: 270px;
+  width: 100px;
+  font-size: 15px;
+  margin-top: 40px;
+}
+
+  }
 
 
 
@@ -900,3 +1131,83 @@ nav ul li a:hover {
     margin-top:30px;
   }
   
+
+
+  @media (max-width: 390px) {
+
+    .imagenmac{
+      margin-top: 170px;
+      width: 280px;
+      margin-left: -335px;
+    }
+  
+
+    .videomac {
+      max-width: 300px;
+      width: 100%;
+      margin: 0 auto;
+      margin-top: -170px;
+      margin-left: 40px;
+      display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  .videomac iframe {
+      max-width: 100%;
+      height: auto;
+  }
+
+
+  .automac{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 300px;
+    text-align: center;
+    width: 350px;
+  }
+
+
+  .imagenmac1{
+    width: 250px;
+    height: auto;
+    margin-left: 70px;
+    margin-top: -150px;
+  }
+  
+
+  .h1mac{
+    margin-left: 10px;
+    font-size: 17px;
+    width: 350px;
+  }
+
+  .h4mac{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: -10px;
+    width: 300px;
+  }
+
+.imagenmac3{
+  margin-top: -520px;
+  width: 300px;
+  height: auto;
+  margin-right: 35px;
+
+}
+
+  .h3mac{
+    margin-top: 300px;
+    text-align: center;
+    margin-left: -50px;
+  }
+
+  .fundaciondos{
+    width: 300px;
+    height: 200px;
+    margin-left: -10px;
+  }
+  
+  }
+
