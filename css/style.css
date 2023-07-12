@@ -1,180 +1,180 @@
 html {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .colorindex{
-    margin: 0;
-    background-color: #efefef;
+  margin: 0;
+  background-color: #efefef;
 }
 
 #titulo {
-    background-color: #364552;
-    color: white;
-    padding: 3rem 2rem;
+  background-color: #364552;
+  color: white;
+  padding: 3rem 2rem;
 }
 
 header h1 {
-    font-size: 4rem;
-    text-align: center;
+  font-size: 4rem;
+  text-align: center;
 }
 
 .imagen {
-    width: 100px;
-    text-decoration: none;
+  width: 100px;
+  text-decoration: none;
 }
 
 
 .ferrari1 {
-    width: 200px;
-    margin: 0 auto;
-    text-align: center;
-   position: relative;
-    display:inline-block;
-    left: 15%;
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+ position: relative;
+  display:inline-block;
+  left: 15%;
 }
 
 
 .imagen2 {
-    width: 100px;
-    
+  width: 100px;
+  
 }
 
- .lamborghini1 {
-    margin: 0 auto;
-    text-align: center;
-    position: relative;
-    display:inline-block;
-    height: 200px;
-    width: 200px;
-    left: 20%;
+.lamborghini1 {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  display:inline-block;
+  height: 200px;
+  width: 200px;
+  left: 20%;
 } 
 
 .imagen3 {
-    width: 100px;
-   
+  width: 100px;
+ 
 }
 
 .mercedes {
-     width: 200px;
-     margin: 0 auto;
-     text-align: center;
-     position: relative;
-     display:inline-block;
-     left: 25%;
- } 
+   width: 200px;
+   margin: 0 auto;
+   text-align: center;
+   position: relative;
+   display:inline-block;
+   left: 25%;
+} 
 
- .imagen4 {
-    width: 100px;
-    
+.imagen4 {
+  width: 100px;
+  
 }
 
 .mclaren {
-     width: 200px;
-     margin: 0 auto;
-     text-align: center;
-     position: relative;
-     display:inline-block;
-     left: 30%;
- } 
+   width: 200px;
+   margin: 0 auto;
+   text-align: center;
+   position: relative;
+   display:inline-block;
+   left: 30%;
+} 
 
- .colorh3{
-    color: black;
-    text-decoration: none;
- }
+.colorh3{
+  color: black;
+  text-decoration: none;
+}
 
- section article:hover {
-    box-shadow:0 0.2rem 0.5rem rgba(0,0,0,0.3);
+section article:hover {
+  box-shadow:0 0.2rem 0.5rem rgba(0,0,0,0.3);
 }
 
 .charlablog{
-    text-align: center;
+  text-align: center;
 }
 
 .marcas100{
-    background-color: gray;
-    color: black;
+  background-color: gray;
+  color: black;
 }
 
 .marcas{
-    text-align: center;
+  text-align: center;
 
 }
 
 
 
 .links a:active{
-  background-color: black;
+background-color: black;
 }
 
 section article {
-    transition: all 0.3s ease;
-    background-color: #fff;
-    margin: 2rem 0;
-    border-radius: 0.5rem;
-    padding: 0.25rem 0;
-    cursor:pointer;
+  transition: all 0.3s ease;
+  background-color: #fff;
+  margin: 2rem 0;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0;
+  cursor:pointer;
 }
 
 
 .video {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 50px;
-  }
-  
-  .video2 {
-    margin-left: -10px;
-    margin-right: 50px;
-    margin-bottom: 40px;
-  }
-  
-  .italiana {
-  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
 
-   
-  }
+.video2 {
+  margin-left: -10px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+
+.italiana {
+width: 400px;
+
+ 
+}
 
 .texto8 {
-    margin-left: 15px;
+  margin-left: 15px;
 }
 
- .calendario {
-    border-collapse: collapse;
-    width: 200px;
-    margin-left: 42%;
-    margin-bottom: 50px;
-    margin-top: 50px;
+.calendario {
+  border-collapse: collapse;
+  width: 200px;
+  margin-left: 42%;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
-  
+
 th, td {
-    text-align: center;
-    padding: 8px;
+  text-align: center;
+  padding: 8px;
 }
-  
-.dias{
-    background-color: #f2f2f2;
-  }
-  
- .fechas {
-    background-color: #ffffff;
-  }
 
-  
-td:hover{
-    background-color: #aaa;
-    cursor: pointer;
+.dias{
+  background-color: #f2f2f2;
 }
-  
+
+.fechas {
+  background-color: #ffffff;
+}
+
+
+td:hover{
+  background-color: #aaa;
+  cursor: pointer;
+}
+
 .highlight {
-    background-color: #cccccc;
+  background-color: #cccccc;
+}
+h5{
+  border: 1px solid black;
+  padding: 10px;
+  width: 600px;
+  
   }
-  h5{
-    border: 1px solid black;
-    padding: 10px;
-    width: 600px;
-    
-    }
 h5{
 border: 1px solid black;
 padding: 10px;
@@ -183,38 +183,38 @@ margin-left: 34%;
 }
 
 .precio{
-    margin-top: -50px;
+  margin-top: -50px;
 }
 
 .EMPContacto{
-    margin-top: -50px;
+  margin-top: -50px;
 }
 
-  .MDPContacto {
-    width: 200px;
-    height: 30px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    padding: 5px;
-    font-size: 14px;
-    color: #555;
+.MDPContacto {
+  width: 200px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  font-size: 14px;
+  color: #555;
 
-  }
+}
 
 
 
 .footerindex {
-    background-color: #222;
-    padding: 2.5rem;
-    color:#fff;
+  background-color: #222;
+  padding: 2.5rem;
+  color:#fff;
 }
 
 /* footer section {
-    float:right;
+  float:right;
 } */
 
 .pindex {
-    margin:0;
+  margin:0;
 margin-right: 60px;
 }
 
@@ -222,344 +222,323 @@ margin-right: 60px;
 
 
 .encuadrado {
-    border: 1px solid #ccc;
-    padding: 10px;
-    display: inline-block;
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: inline-block;
+}
+
+.mail {
+  font-weight: bold;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+button[type="reset"] {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button[type="reset"]:hover {
+  background-color: #333;
+}
+
+
+
+
+
+@media (max-width: 500px) {
+  .ferrari1,
+  .lamborghini1,
+  .mercedes,
+  .mclaren {
+    display: block;
+    margin: 0 auto 5px;
+    width: 80%;
+    left: initial;
   }
-  
-  .mail {
-    font-weight: bold;
-    font-size: 16px;
-    color: #333;
-    margin-bottom: 5px;
+ 
+
+  .mercedes{
+    margin-top: -40px;
   }
-  
-  button[type="reset"] {
-    background-color: black;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 14px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-  }
-  
-  button[type="reset"]:hover {
-    background-color: #333;
-  }
-  
 
 
-
-
-  @media (max-width: 500px) {
-    .ferrari1,
-    .lamborghini1,
-    .mercedes,
-    .mclaren {
-      display: block;
-      margin: 0 auto 5px;
-      width: 80%;
-      left: initial;
-    }
-   
-
-    .mercedes{
-      margin-top: -40px;
-    }
-
-
-      .video {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-      }
-    
-      .video2 {
-        margin: 0 auto;
-        max-width: 300px;
-      }
-    
-      .video2 iframe {
-        width: 100%;
-        height: auto;
-      }
-    
-      .italiana {
-        width: 100%;
-        text-align: center;
-        margin-top: 10px;
-      }
-
-
-      h5{
-        margin: 0 auto;
-        max-width: 350px;
-        max-height: 400px;
-      }
-
-      .calendario {
-        margin: 0 auto;
-        }
-
-      .precio{
-        margin-top: 80px;
-      }
-
-      .footerindex{
-        font-size: 15px;
-      }
-
+    .video {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
   
+    .video2 {
+      margin: 0 auto;
+      max-width: 300px;
+    }
   
-
+    .video2 iframe {
+      width: 100%;
+      height: auto;
+    }
   
+    .italiana {
+      width: 100%;
+      text-align: center;
+      margin-top: 10px;
+    }
+
+
+    h5{
+      margin: 0 auto;
+      max-width: 350px;
+      max-height: 400px;
+    }
+
+    .calendario {
+      margin: 0 auto;
+      }
+
+    .precio{
+      margin-top: 80px;
+    }
+
+    .footerindex{
+      font-size: 15px;
+    }
+
+  }
 
 
 
 
 
 
-  /* ARRANCA FERRARI */
 
 
 
 
-  .ferraripagina{
-    background-color: rgb(56, 13, 12);
+/* ARRANCA FERRARI */
+
+
+
+
+.ferraripagina{
+  background-color: rgb(56, 13, 12);
 }
 
 
 
 nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  margin-left: 30;
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-left: 30;
 }
 
 nav ul li {
-  display: inline;
+display: inline;
 }
 
 nav ul li a {
-  
-  display: inline-block;
-  padding: 10px;
-  text-decoration: none;
-  color: #ffffff;
-  background-color: #383838;
-  border: 1px solid #ccc;
-  margin-right: 10px;
+
+display: inline-block;
+padding: 10px;
+text-decoration: none;
+color: #ffffff;
+background-color: #383838;
+border: 1px solid #ccc;
+margin-right: 10px;
 }
 
 nav ul li a:hover {
-  background-color: #ddd;
+background-color: #ddd;
 }
 
 
 
 
 .imagen5 {
-    width: 200px;
-    position: absolute;
-    top: 70px;
-    left:-20px;
+  width: 200px;
+  position: absolute;
+  top: 70px;
+  left:-20px;
 }
 
 .imagen6 {
-    width: 400px;
-    position: absolute;
-    top:-75px ;
-    left: 520px;
+  width: 400px;
+  position: absolute;
+  top:-75px ;
+  left: 520px;
 }
 
 .colorbody {
-    color: rgb(193, 193, 193);
+  color: rgb(193, 193, 193);
 }
 
 .texto10{
-    margin-top: 270px;
-    margin-left: 40px; 
-    font-size: 20px; 
-    width: 650px;
+  margin-top: 270px;
+  margin-left: 40px; 
+  font-size: 20px; 
+  width: 650px;
 }
 
 .video10{
-   float: right;
-   margin-right: 60px;
-   margin-top: -230px;
+ float: right;
+ margin-right: 60px;
+ margin-top: -230px;
 }
 
 .hrferrari{
-    margin-top: 150px;
+  margin-top: 150px;
 }
-  
+
 .modelos{
-    text-align: center;
+  text-align: center;
 }
 
 .autos1 {
-    display: flex;
-  align-items: center;
+  display: flex;
+align-items: center;
 }
 
 .modelosferrari{
-    margin-left: 220px;
-    margin-top: 75px;
+  margin-left: 220px;
+  margin-top: 75px;
 }
 
 .enzo{
-    width: 450px;
-    height: auto;
-    margin-left:70px;
-    margin-right: 70px;
-    
+  width: 450px;
+  height: auto;
+  margin-left:70px;
+  margin-right: 70px;
+  
 }
 
 .textoenzo {
-   width: 400px;
+ width: 400px;
 }
 
 .laferrari{
-    width: 450px;
-    height: auto;
-    margin-left:70px;
-    margin-right: 70px;
- }
+  width: 450px;
+  height: auto;
+  margin-left:70px;
+  margin-right: 70px;
+}
 
- .autos2 {
-    display: flex;
-  align-items: center;
+.autos2 {
+  display: flex;
+align-items: center;
 }
 
 .textolaferrari{
-    width: 400px;
+  width: 400px;
 }
 
 .autos3 {
-    display: flex;
-  align-items: center;
+  display: flex;
+align-items: center;
 }
 
 .f1ferrari{
-    width: 450px;
-    height: auto;
-    margin-left:70px;
-    margin-right: 70px;
+  width: 450px;
+  height: auto;
+  margin-left:70px;
+  margin-right: 70px;
 }
 
 .textof1{
-    width: 400px;
+  width: 400px;
 }
 
 .valorautos{
-    text-align: center;
+  text-align: center;
 }
 
 .tabla30 {
-    border-collapse: collapse;
-    width: 100%;
-    background-color: rgb(56, 13, 12);
-    margin-left: 34%;
-   margin-top: 30px;
-   margin-bottom: 30px;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: rgb(56, 13, 12);
+  margin-left: 34%;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.tabla30 {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: center;
+  color: white; 
+
+}
+
+@media (max-width: 500px) {
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .links li {
+    flex-basis: 50%;
+    text-align: center;
+    margin-bottom: 10px;
   }
   
- .tabla30 {
-    border: 1px solid white;
-    padding: 8px;
-    text-align: center;
-    color: white; 
-
+  .links li a {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
   }
+
+  .imagen5{
+    margin-top: 50px;
+    width: 100px;
+    margin-left: 15px;
+  }
+
+  .imagen6{
+    margin-left: -410px;
+    width: 200px;
+    margin-top: 123px;
+  }
+
+  .texto10{
+    margin-top: 100px;
+    margin-left: 10px;
+    text-align: center;
+    width: 350px;
+    font-size: 20px;
+    
+  }
+
+  
 
   @media (max-width: 500px) {
-    .links {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+    .video10 {
+      max-width: 100%;
+      margin-top:30px;
+      margin-left:50px;
     }
   
-    .links li {
-      flex-basis: 50%;
-      text-align: center;
-      margin-bottom: 10px;
-    }
-    
-    .links li a {
-      display: block;
-      width: 100%;
-      padding: 10px;
-      box-sizing: border-box;
+    .video10 iframe {
+      max-width: 100%;
+      max-height: 100%;
     }
 
-    .imagen5{
+    .modelosferrari{
+      margin-left: 120px;
       margin-top: 50px;
-      width: 100px;
-      margin-left: 15px;
     }
 
-    .imagen6{
-      margin-left: -410px;
-      width: 200px;
-      margin-top: 123px;
-    }
-
-    .texto10{
-      margin-top: 100px;
-      margin-left: 10px;
-      text-align: center;
-      width: 350px;
-      font-size: 20px;
-      
-    }
-
-    
-
-    @media (max-width: 500px) {
-      .video10 {
-        max-width: 100%;
-        margin-top:30px;
-        margin-left:50px;
-      }
-    
-      .video10 iframe {
-        max-width: 100%;
-        max-height: 100%;
-      }
-
-      .modelosferrari{
-        margin-left: 120px;
-        margin-top: 50px;
-      }
 
 
-
-      .autos1 {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        margin-bottom: 20px;
-    }
-    
-    .enzo {
-        width: 300px;
-        height: auto;
-    }
-    
-    .textoenzo {
-        margin-top: 10px;
-        font-size: 16px;
-        line-height: 1.5;
-        width: 350px;
-    }
-    
-
-    .autos2 {
+    .autos1 {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -567,21 +546,20 @@ nav ul li a:hover {
       margin-bottom: 20px;
   }
   
-  .laferrari {
+  .enzo {
       width: 300px;
       height: auto;
   }
   
-  .textolaferrari {
+  .textoenzo {
       margin-top: 10px;
       font-size: 16px;
       line-height: 1.5;
       width: 350px;
   }
+  
 
-      
-
-  .autos3 {
+  .autos2 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -589,50 +567,72 @@ nav ul li a:hover {
     margin-bottom: 20px;
 }
 
-.f1ferrari {
+.laferrari {
     width: 300px;
     height: auto;
 }
 
-.textof1 {
+.textolaferrari {
     margin-top: 10px;
     font-size: 16px;
     line-height: 1.5;
     width: 350px;
 }
 
+    
+
+.autos3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.f1ferrari {
+  width: 300px;
+  height: auto;
+}
+
+.textof1 {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+  width: 350px;
+}
+
 
 .tabla30 {
-  max-width: 350px;
-  width: 100%;
-  border-collapse: collapse;
-  margin-left: 13px;
+max-width: 350px;
+width: 100%;
+border-collapse: collapse;
+margin-left: 13px;
 }
 
 .tabla30 th, .tabla30 td {
-  padding: 8px;
-  border: 1px solid #ccc;
+padding: 8px;
+border: 1px solid #ccc;
 }
 
 .tabla30 th {
-  background-color: #060505;
-  text-align: center;
+background-color: #060505;
+text-align: center;
 }
 
 .tabla30 tr:nth-child(even) {
-  background-color: #040404;
+background-color: #040404;
 }
 
-      
-    }
     
-
   }
   
-  
-  
-  
-  
+
+}
+
+
+
+
+
 
 
 /* ARRANCA LAMBORGHINI */
@@ -641,187 +641,187 @@ nav ul li a:hover {
 
 
 
- html.colorlamborghini{
-    background-color: rgb(221, 221, 52);
-    font-family: Arial, sans-serif;
+html.colorlamborghini{
+  background-color: rgb(221, 221, 52);
+  font-family: Arial, sans-serif;
 }
 #carouselExampleIndicators {
-  width: 400px;
-  height: 200px;
-  margin: 0 auto;
+width: 400px;
+height: 200px;
+margin: 0 auto;
 }
 
 .imagenlamb{
-    width: 200px;
-    height: auto;
-    position: absolute;
-    top: 60px;
-    left:-20px;
+  width: 200px;
+  height: auto;
+  position: absolute;
+  top: 60px;
+  left:-20px;
 }
 
 .imagenlamb1 {
-    width: 630px;
-    position: absolute;
-    top:-75px ;
-    left: 400px;
+  width: 630px;
+  position: absolute;
+  top:-75px ;
+  left: 400px;
 }
 
 .textolamb{
-    width: 600px;
-    font-size: 20px;
-    margin-top: 230px;
-    margin-left: 40px;
+  width: 600px;
+  font-size: 20px;
+  margin-top: 230px;
+  margin-left: 40px;
 }
 
 .creador{
-    display: flex;
-    align-items: center;
-    margin-left: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
 }
 
 .ferruccio{
-    margin-left: 100px;
-    width: 400px;
-    height: auto;
-    margin-top: 200px;
+  margin-left: 100px;
+  width: 400px;
+  height: auto;
+  margin-top: 200px;
 }
 
 .creador2{
-    text-align: right;
-    margin-right: 320px;
+  text-align: right;
+  margin-right: 320px;
 }
 
 .muerte{
-    margin-right: 65px;
-    margin-top: -12px;
+  margin-right: 65px;
+  margin-top: -12px;
 }
 
-  .modelolamb{
-    margin-top: 100px;
-    text-align: center;
-  }
-  
-
-  .fundacion{
-    margin-top: 70px;
-  }
-  
-  .fundacionlamb{
-    margin-left: 140px;
-  }
-
-  .ubicacion3{
-   width: 450px;
-   height: 300px;
-   margin-left: 55px;
-  }
-
-  .historialamb1{
-    border: 2px solid black;
-    width: 500px;
-    font-size: 17px;
-    margin-left: 57%;
-    margin-top: 50px;
-    
-    
-  }
-
-  .colorlambo2{
-    background-color: rgb(221, 221, 52);
-  }
-
-.historialamb{
-    font-size: 17px;
-    margin-left: 67%;
-    margin-top: -341px;
-   
+.modelolamb{
+  margin-top: 100px;
+  text-align: center;
 }
 
-  .footerlamb {
-    background: #000;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-    bottom: 0;
-    width: 100%;
-    margin-left: -10px;
-    margin-top:30px;
-  }
 
-
-
-
-  @media (max-width: 500px) {
-
-    .imagenlamb{
-      margin-top: 50px;
-      width: 110px;
-      margin-left: 15px;
-    }
-
-    .imagenlamb1{
-      margin-left: -320px;
-      width: 250px;
-      margin-top: 140px;
-    }
-
-    .creador {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-      margin-bottom: 20px;
-  }
-  
-  .ferruccio {
-      width: 300px;
-      height: auto;
-      margin-top: 40px;
-      margin-right: 130px;
-  }
-  
-  .textolamb {
-    margin-left: -45px;
-      margin-top: 80px;
-      font-size: 16px;
-      line-height: 1.5;
-      width: 350px;
-  }
-
-  .creador2{
-    margin-left: 150px;
-    text-align: center;
-  }
-
-  .muerte{
-    width: 100px;
-  }
+.fundacion{
+  margin-top: 70px;
+}
 
 .fundacionlamb{
-  margin-top: -30px;
-  margin-left: 20px;
- 
+  margin-left: 140px;
 }
 
 .ubicacion3{
-  width: 350px;
-  height: 200px;
-  margin-top: 20px;
-  margin-left: 20px;
+ width: 450px;
+ height: 300px;
+ margin-left: 55px;
+}
+
+.historialamb1{
+  border: 2px solid black;
+  width: 500px;
+  font-size: 17px;
+  margin-left: 57%;
+  margin-top: 50px;
+  
+  
+}
+
+.colorlambo2{
+  background-color: rgb(221, 221, 52);
 }
 
 .historialamb{
-  margin-top: 80px;
-  margin-left: 90px;
-  font-size: 20px;
-}
-.historialamb1{
-  margin-left: 25px;
-  font-size: 15px;
-  margin-top: 20px;
+  font-size: 17px;
+  margin-left: 67%;
+  margin-top: -341px;
+ 
 }
 
+.footerlamb {
+  background: #000;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-left: -10px;
+  margin-top:30px;
+}
+
+
+
+
+@media (max-width: 500px) {
+
+  .imagenlamb{
+    margin-top: 50px;
+    width: 110px;
+    margin-left: 15px;
   }
+
+  .imagenlamb1{
+    margin-left: -320px;
+    width: 250px;
+    margin-top: 140px;
+  }
+
+  .creador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.ferruccio {
+    width: 300px;
+    height: auto;
+    margin-top: 40px;
+    margin-right: 130px;
+}
+
+.textolamb {
+  margin-left: -45px;
+    margin-top: 80px;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 350px;
+}
+
+.creador2{
+  margin-left: 150px;
+  text-align: center;
+}
+
+.muerte{
+  width: 100px;
+}
+
+.fundacionlamb{
+margin-top: -30px;
+margin-left: 20px;
+
+}
+
+.ubicacion3{
+width: 350px;
+height: 200px;
+margin-top: 20px;
+margin-left: 20px;
+}
+
+.historialamb{
+margin-top: 80px;
+margin-left: 90px;
+font-size: 20px;
+}
+.historialamb1{
+margin-left: 25px;
+font-size: 15px;
+margin-top: 20px;
+}
+
+}
 
 
 
@@ -830,95 +830,95 @@ nav ul li a:hover {
 
 
 
-  .fondomerc{
-    background-color: rgb(147, 147, 147)
+.fondomerc{
+  background-color: rgb(147, 147, 147)
 }
 
 .imagenmerc{
-    width: 100px;
-    height: auto;
-    position: absolute;
-    top: 90px;
-    left:30px;
+  width: 100px;
+  height: auto;
+  position: absolute;
+  top: 90px;
+  left:30px;
 }
 
 .textomerc{
-    font-size: 85px;
-    text-align: center;
-    margin-top: 40px;
-    margin-left: 70px;
-    color: rgb(49, 49, 49);
+  font-size: 85px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 70px;
+  color: rgb(49, 49, 49);
 }
 
 .containermerc {
-    display: flex;
-  }
-  
-  .image-wrapper {
-    flex: 0 0 40%; 
-  }
+  display: flex;
+}
 
-  .primermodelomerc{
-    font-size: 20px;
-  }
-  
-  .text-wrapper {
-    flex: 1;  
-    padding-left: 20px; 
-    width: 40px;
-  }
-  
-  .image-wrapper img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .prlogo{
-    width: 400px;
-    height: auto;
-    margin-left: 70%;
-    margin-top: -200px;
+.image-wrapper {
+  flex: 0 0 40%; 
+}
+
+.primermodelomerc{
+  font-size: 20px;
+}
+
+.text-wrapper {
+  flex: 1;  
+  padding-left: 20px; 
+  width: 40px;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+}
+
+.prlogo{
+  width: 400px;
+  height: auto;
+  margin-left: 70%;
+  margin-top: -200px;
 }
 
 .textoprimerlogomerc{
-    font-size: 20px;
-  width: 60%;
-  margin-top: 110px;
-  margin-left: 30px;
-  }
+  font-size: 20px;
+width: 60%;
+margin-top: 110px;
+margin-left: 30px;
+}
 
 .tablemerc{
-    width: 45%;
-    border-collapse: collapse;
-    margin-top: 70px;
-    margin-left: 27%;
+  width: 45%;
+  border-collapse: collapse;
+  margin-top: 70px;
+  margin-left: 27%;
 }
 
 
 
 .tdmerc{
-    border: solid 1px #eee;
-    padding: 5px;
+  border: solid 1px #eee;
+  padding: 5px;
 }
 
 .thmerc1{
-    border: solid 1px #eee;
-    padding: 5px;
-    background-color: rgb(228, 228, 228);
-    text-align: center;
+  border: solid 1px #eee;
+  padding: 5px;
+  background-color: rgb(228, 228, 228);
+  text-align: center;
 }
 
 
 .trmerc{
-    text-align: center;
-    background-color: rgb(188, 188, 188);
+  text-align: center;
+  background-color: rgb(188, 188, 188);
 }
 
 
 
 .trmerc:hover{
-    background-color: #aaa;
-    cursor: pointer;
+  background-color: #aaa;
+  cursor: pointer;
 }
 
 
@@ -926,112 +926,112 @@ nav ul li a:hover {
 
 
 .linkanimadomerc {
-    display: inline-block;
-    position: relative;
-    color: #000;
-    text-decoration: none;
-   margin-left: 74%;
-   margin-top: 100px; 
-  }
-  
-  .linkanimadomerc::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background-color: #000;
-    transform: scaleX(0);
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .linkanimadomerc:hover::after {
-    transform: scaleX(1);
-  }
-  
+  display: inline-block;
+  position: relative;
+  color: #000;
+  text-decoration: none;
+ margin-left: 74%;
+ margin-top: 100px; 
+}
+
+.linkanimadomerc::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #000;
+  transform: scaleX(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.linkanimadomerc:hover::after {
+  transform: scaleX(1);
+}
+
 
 
 .footermerc {
-    background: #fffcfc;
-    color: #000000;
-    padding: 10px;
-    text-align: center;
-    bottom: 0;
-    width: 100%;
-    margin-left: -10px;
-    margin-top:30px;
-  }
-
-
-  @media (max-width: 500px) {
-
-    .imagenmerc{
-      margin-top: 40px;
-      width: 60px;
-      margin-left: -10px;
-    }
-
-    .textomerc{
-      margin-left: 50px;
-      font-size: 35px;
-      margin-top: 30px;
-    }
-
-    .image-wrapper{
-      margin-top: 10px
-    }
-
-    .primermodelomerc{
-      margin-left: -130px;
-      font-size: 18px;
-      width: 300px;
-      text-align: center;
-    }
-
-    .prlogo{
-      margin-top: -5px;
-      margin-left: 40px;
-      width: 300px;
-      height: auto;
-    }
-
-    .textoprimerlogomerc{
-      margin-top: 100px;
-      text-align: center;
-      margin-left: 40px;
-      width: 300px;
-    }
-
-    .tablemerc {
-      max-width: 350px;
-      width: 100%;
-      border-collapse: collapse;
-      margin-left: 13px;
-    }
-    
-    .tablemerc th, .tablamerc td {
-      padding: 8px;
-      border: 1px solid #aaa;
-    }
-    
-    .tablemerc th {
-      background-color: #ffffff;
-      text-align: center;
-    }
-    
-    .tablemerc tr:nth-child(even) {
-      background-color: #aaa;
-    }
-
-.linkanimadomerc{
-  margin-left: 270px;
-  width: 100px;
-  font-size: 15px;
-  margin-top: 40px;
+  background: #fffcfc;
+  color: #000000;
+  padding: 10px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-left: -10px;
+  margin-top:30px;
 }
 
+
+@media (max-width: 500px) {
+
+  .imagenmerc{
+    margin-top: 40px;
+    width: 60px;
+    margin-left: -10px;
   }
+
+  .textomerc{
+    margin-left: 50px;
+    font-size: 35px;
+    margin-top: 30px;
+  }
+
+  .image-wrapper{
+    margin-top: 10px
+  }
+
+  .primermodelomerc{
+    margin-left: -130px;
+    font-size: 18px;
+    width: 300px;
+    text-align: center;
+  }
+
+  .prlogo{
+    margin-top: -5px;
+    margin-left: 40px;
+    width: 300px;
+    height: auto;
+  }
+
+  .textoprimerlogomerc{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 40px;
+    width: 300px;
+  }
+
+  .tablemerc {
+    max-width: 350px;
+    width: 100%;
+    border-collapse: collapse;
+    margin-left: 13px;
+  }
+  
+  .tablemerc th, .tablamerc td {
+    padding: 8px;
+    border: 1px solid #aaa;
+  }
+  
+  .tablemerc th {
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .tablemerc tr:nth-child(even) {
+    background-color: #aaa;
+  }
+
+.linkanimadomerc{
+margin-left: 270px;
+width: 100px;
+font-size: 15px;
+margin-top: 40px;
+}
+
+}
 
 
 
@@ -1039,175 +1039,174 @@ nav ul li a:hover {
 
 
 
-  .fondomac{
-    background-color: rgb(255, 152, 0) ;
+.fondomac{
+  background-color: rgb(255, 152, 0) ;
 }
 
 
 
 .imagenmac{
-    width: 630px;
-    position: absolute;
-    top:-85px ;
-    left: 400px;
+  width: 630px;
+  position: absolute;
+  top:-85px ;
+  left: 400px;
 }
 
 
 .videomac{
-    float: left;
-    margin-top: 50px;
-    margin-left: 60px;
-    height: 300;
+  float: left;
+  margin-top: 50px;
+  margin-left: 60px;
+  height: 300;
 }
 
 .automac{
-    font-size: 20px;
-    width: 600px;
-    margin-left: 50%;
-    margin-top: 260px;
+  font-size: 20px;
+  width: 600px;
+  margin-left: 50%;
+  margin-top: 260px;
 }
 
 
 .ayrtonmac{
-    margin-left: auto;
-    margin-right: auto;
-    align-items: center;
-    margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 250px;
 }
 
 .imagenmac1{
-    align-items: center;
-    margin-left: 41%;
-    width: 300px;
+  align-items: center;
+  margin-left: 41%;
+  width: 300px;
 }
 
 
 .h1mac{
-    font-size: 20px;
-    width: 600px;
-    text-align: center;
-    margin-left: 30%;
-    border-radius: 2px solid black;
-    padding: 10px;
+  font-size: 20px;
+  width: 600px;
+  text-align: center;
+  margin-left: 30%;
+  border-radius: 2px solid black;
+  padding: 10px;
 }
 
 
 
 .fundacionmac{
-    text-align: left;
-    margin-left: 50px;
+  text-align: left;
+  margin-left: 50px;
 }
 
 .h3mac{
-    margin-left: 200px;
-    margin-top: -50px;
+  margin-left: 200px;
+  margin-top: -50px;
 }
 
 .imagenmac3{
-    width: 600px;
-    height: auto;
-    float: right;
-    margin-top: -400px;
-    margin-right: 50px;
+  width: 600px;
+  height: auto;
+  float: right;
+  margin-top: -400px;
+  margin-right: 50px;
 }
 
 .h4mac{
-    font-size: 20px;
-    text-align: right;
-    margin-right: 150px;
-    margin-top: 80px;
-    
+  font-size: 20px;
+  text-align: right;
+  margin-right: 150px;
+  margin-top: 80px;
   
+
 }
 
 .footermac {
-    background: #000000;
-    color: #d0d0d0;
-    padding: 10px;
-    text-align: center;
-    bottom: 0;
+  background: #000000;
+  color: #d0d0d0;
+  padding: 10px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-left: -10px;
+  margin-top:30px;
+}
+
+
+
+@media (max-width: 500px) {
+
+  .imagenmac{
+    margin-top: 170px;
+    width: 280px;
+    margin-left: -335px;
+  }
+
+
+  .videomac {
+    max-width: 300px;
     width: 100%;
-    margin-left: -10px;
-    margin-top:30px;
-  }
-  
+    margin: 0 auto;
+    margin-top: -170px;
+    margin-left: 40px;
+    display: flex;
+flex-direction: column;
+align-items: center;
+}
 
-
-  @media (max-width: 500px) {
-
-    .imagenmac{
-      margin-top: 170px;
-      width: 280px;
-      margin-left: -335px;
-    }
-  
-
-    .videomac {
-      max-width: 300px;
-      width: 100%;
-      margin: 0 auto;
-      margin-top: -170px;
-      margin-left: 40px;
-      display: flex;
-  flex-direction: column;
-  align-items: center;
-  }
-  
-  .videomac iframe {
-      max-width: 100%;
-      height: auto;
-  }
-
-
-  .automac{
-    font-size: 12px;
-    margin-left: 20px;
-    margin-top: 300px;
-    text-align: center;
-    width: 350px;
-  }
-
-
-  .imagenmac1{
-    width: 250px;
+.videomac iframe {
+    max-width: 100%;
     height: auto;
-    margin-left: 70px;
-    margin-top: -150px;
-  }
-  
+}
 
-  .h1mac{
-    margin-left: 10px;
-    font-size: 17px;
-    width: 350px;
-  }
 
-  .h4mac{
-    text-align: center;
-    margin-top: 30px;
-    margin-left: -10px;
-    width: 300px;
-  }
+.automac{
+  font-size: 12px;
+  margin-left: 20px;
+  margin-top: 300px;
+  text-align: center;
+  width: 350px;
+}
+
+
+.imagenmac1{
+  width: 250px;
+  height: auto;
+  margin-left: 70px;
+  margin-top: -150px;
+}
+
+
+.h1mac{
+  margin-left: 10px;
+  font-size: 17px;
+  width: 350px;
+}
+
+.h4mac{
+  text-align: center;
+  margin-top: 30px;
+  margin-left: -10px;
+  width: 300px;
+}
 
 .imagenmac3{
-  margin-top: -520px;
-  width: 300px;
-  height: auto;
-  margin-right: 35px;
+margin-top: -520px;
+width: 300px;
+height: auto;
+margin-right: 35px;
 
 }
 
-  .h3mac{
-    margin-top: 300px;
-    text-align: center;
-    margin-left: -50px;
-  }
+.h3mac{
+  margin-top: 300px;
+  text-align: center;
+  margin-left: -50px;
+}
 
-  .fundaciondos{
-    width: 300px;
-    height: 200px;
-    margin-left: -10px;
-  }
-  
-  }
+.fundaciondos{
+  width: 300px;
+  height: 200px;
+  margin-left: -10px;
+}
 
+}
