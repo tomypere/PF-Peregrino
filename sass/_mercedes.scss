@@ -1,0 +1,209 @@
+body{
+   
+      
+      .imagenmerc{
+        width: 100px;
+        height: auto;
+        position: absolute;
+        top: 90px;
+        left:30px;
+      }
+      
+      .textomerc{
+        font-size: 85px;
+        text-align: center;
+        margin-top: 40px;
+        margin-left: 70px;
+        color: rgb(49, 49, 49);
+      }
+      
+      .containermerc {
+        display: flex;
+      }
+      
+      .image-wrapper {
+        flex: 0 0 40%; 
+      }
+      
+      .primermodelomerc{
+        font-size: 20px;
+      }
+      
+      .text-wrapper {
+        flex: 1;  
+        padding-left: 20px; 
+        width: 40px;
+      }
+      
+      .image-wrapper img {
+        width: 100%;
+        height: auto;
+      }
+      
+      .prlogo{
+        width: 400px;
+        height: auto;
+        margin-left: 70%;
+        margin-top: -200px;
+      }
+      
+      .textoprimerlogomerc{
+        font-size: 20px;
+      width: 60%;
+      margin-top: 110px;
+      margin-left: 30px;
+      }
+      
+      .tablemerc{
+        width: 45%;
+        border-collapse: collapse;
+        margin-top: 70px;
+        margin-left: 27%;
+      }
+      
+      
+      
+      .tdmerc{
+        border: solid 1px #eee;
+        padding: 5px;
+      }
+      
+      .thmerc1{
+        border: solid 1px #eee;
+        padding: 5px;
+        background-color: rgb(228, 228, 228);
+        text-align: center;
+      }
+      
+      
+      .trmerc{
+        text-align: center;
+        background-color: rgb(188, 188, 188);
+      }
+      
+      
+      
+      .trmerc:hover{
+        background-color: #aaa;
+        cursor: pointer;
+      }
+      
+      
+      
+      
+      
+      .linkanimadomerc {
+        display: inline-block;
+        position: relative;
+        color: #000;
+        text-decoration: none;
+       margin-left: 74%;
+       margin-top: 100px; 
+      }
+      
+      .linkanimadomerc::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: #000;
+        transform: scaleX(0);
+        transition: transform 0.3s ease-in-out;
+      }
+      
+      .linkanimadomerc:hover::after {
+        transform: scaleX(1);
+      }
+      
+      
+      
+      .footermerc {
+        background: #fffcfc;
+        color: #000000;
+        padding: 10px;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        margin-left: -10px;
+        margin-top:30px;
+      }
+      
+      
+      @media (max-width: 500px) {
+      
+        .imagenmerc{
+          margin-top: 40px;
+          width: 60px;
+          margin-left: -10px;
+        }
+      
+        .textomerc{
+          margin-left: 50px;
+          font-size: 35px;
+          margin-top: 30px;
+        }
+      
+        .image-wrapper{
+          margin-top: 10px
+        }
+      
+        .primermodelomerc{
+          margin-left: -130px;
+          font-size: 18px;
+          width: 300px;
+          text-align: center;
+        }
+      
+        .prlogo{
+          margin-top: -5px;
+          margin-left: 40px;
+          width: 300px;
+          height: auto;
+        }
+      
+        .textoprimerlogomerc{
+          margin-top: 100px;
+          text-align: center;
+          margin-left: 40px;
+          width: 300px;
+        }
+      
+        .tablemerc {
+          max-width: 350px;
+          width: 100%;
+          border-collapse: collapse;
+          margin-left: 13px;
+        }
+        
+        .tablemerc th, .tablamerc td {
+          padding: 8px;
+          border: 1px solid #aaa;
+        }
+        
+        .tablemerc th {
+          background-color: #ffffff;
+          text-align: center;
+        }
+        
+        .tablemerc tr:nth-child(even) {
+          background-color: #aaa;
+        }
+      
+      .linkanimadomerc{
+      margin-left: 270px;
+      width: 100px;
+      font-size: 15px;
+      margin-top: 40px;
+      }
+      
+      }
+      
+      
+}
+
+
+.fondomerc{
+    background-color: rgb(147, 147, 147)
+  }

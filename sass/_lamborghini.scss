@@ -1,0 +1,193 @@
+body{
+
+      #carouselExampleIndicators {
+      width: 400px;
+      height: 200px;
+      margin: 0 auto;
+      }
+      
+      .imagenlamb{
+        width: 200px;
+        height: auto;
+        position: absolute;
+        top: 60px;
+        left:-20px;
+      }
+      
+      .imagenlamb1 {
+        width: 630px;
+        position: absolute;
+        top:-75px ;
+        left: 400px;
+      }
+      
+      .textolamb{
+        width: 600px;
+        font-size: 20px;
+        margin-top: 230px;
+        margin-left: 40px;
+      }
+      
+      .creador{
+        display: flex;
+        align-items: center;
+        margin-left: 50px;
+      }
+      
+      .ferruccio{
+        margin-left: 100px;
+        width: 400px;
+        height: auto;
+        margin-top: 200px;
+      }
+      
+      .creador2{
+        text-align: right;
+        margin-right: 320px;
+      }
+      
+      .muerte{
+        margin-right: 65px;
+        margin-top: -12px;
+      }
+      
+      .modelolamb{
+        margin-top: 100px;
+        text-align: center;
+      }
+      
+      
+      .fundacion{
+        margin-top: 70px;
+      }
+      
+      .fundacionlamb{
+        margin-left: 140px;
+      }
+      
+      .ubicacion3{
+       width: 450px;
+       height: 300px;
+       margin-left: 55px;
+      }
+      
+      .historialamb1{
+        border: 2px solid black;
+        width: 500px;
+        font-size: 17px;
+        margin-left: 57%;
+        margin-top: 50px;
+        
+        
+      }
+      
+      .colorlambo2{
+        background-color: rgb(221, 221, 52);
+      }
+      
+      .historialamb{
+        font-size: 17px;
+        margin-left: 67%;
+        margin-top: -341px;
+       
+      }
+      
+      .footerlamb {
+        background: #000;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        margin-left: -10px;
+        margin-top:30px;
+      }
+      
+      
+      
+      
+      @media (max-width: 500px) {
+      
+        .imagenlamb{
+          margin-top: 50px;
+          width: 110px;
+          margin-left: 15px;
+        }
+      
+        .imagenlamb1{
+          margin-left: -320px;
+          width: 250px;
+          margin-top: 140px;
+        }
+      
+        .creador {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+          margin-bottom: 20px;
+      }
+      
+      .ferruccio {
+          width: 300px;
+          height: auto;
+          margin-top: 40px;
+          margin-right: 130px;
+      }
+      
+      .textolamb {
+        margin-left: -45px;
+          margin-top: 80px;
+          font-size: 16px;
+          line-height: 1.5;
+          width: 350px;
+      }
+      
+      .creador2{
+        margin-left: 150px;
+        text-align: center;
+      }
+      
+      .muerte{
+        width: 100px;
+      }
+      
+      .fundacionlamb{
+      margin-top: -30px;
+      margin-left: 20px;
+      
+      }
+      
+      .ubicacion3{
+      width: 350px;
+      height: 200px;
+      margin-top: 20px;
+      margin-left: 20px;
+      }
+      
+      .historialamb{
+      margin-top: 80px;
+      margin-left: 90px;
+      font-size: 20px;
+      }
+      .historialamb1{
+      margin-left: 25px;
+      font-size: 15px;
+      margin-top: 20px;
+      }
+      
+      }
+      
+      
+}
+
+html.colorlamborghini{
+    background-color: rgb(221, 221, 52);
+    font-family: Arial, sans-serif;
+  }
+
+  .colorlambo2{
+    background-color: rgb(221, 221, 52);
+  }
+
+

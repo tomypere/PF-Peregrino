@@ -1,0 +1,176 @@
+body{
+    
+      
+      
+      
+      .imagenmac{
+        width: 630px;
+        position: absolute;
+        top:-85px ;
+        left: 400px;
+      }
+      
+      
+      .videomac{
+        float: left;
+        margin-top: 50px;
+        margin-left: 60px;
+        height: 300;
+      }
+      
+      .automac{
+        font-size: 20px;
+        width: 600px;
+        margin-left: 50%;
+        margin-top: 260px;
+      }
+      
+      
+      .ayrtonmac{
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+        margin-top: 250px;
+      }
+      
+      .imagenmac1{
+        align-items: center;
+        margin-left: 41%;
+        width: 300px;
+      }
+      
+      
+      .h1mac{
+        font-size: 20px;
+        width: 600px;
+        text-align: center;
+        margin-left: 30%;
+        border-radius: 2px solid black;
+        padding: 10px;
+      }
+      
+      
+      
+      .fundacionmac{
+        text-align: left;
+        margin-left: 50px;
+      }
+      
+      .h3mac{
+        margin-left: 200px;
+        margin-top: -50px;
+      }
+      
+      .imagenmac3{
+        width: 600px;
+        height: auto;
+        float: right;
+        margin-top: -400px;
+        margin-right: 50px;
+      }
+      
+      .h4mac{
+        font-size: 20px;
+        text-align: right;
+        margin-right: 150px;
+        margin-top: 80px;
+        
+      
+      }
+      
+      .footermac {
+        background: #000000;
+        color: #d0d0d0;
+        padding: 10px;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        margin-left: -10px;
+        margin-top:30px;
+      }
+      
+      
+      
+      @media (max-width: 500px) {
+      
+        .imagenmac{
+          margin-top: 170px;
+          width: 280px;
+          margin-left: -335px;
+        }
+      
+      
+        .videomac {
+          max-width: 300px;
+          width: 100%;
+          margin: 0 auto;
+          margin-top: -170px;
+          margin-left: 40px;
+          display: flex;
+      flex-direction: column;
+      align-items: center;
+      }
+      
+      .videomac iframe {
+          max-width: 100%;
+          height: auto;
+      }
+      
+      
+      .automac{
+        font-size: 12px;
+        margin-left: 20px;
+        margin-top: 300px;
+        text-align: center;
+        width: 350px;
+      }
+      
+      
+      .imagenmac1{
+        width: 250px;
+        height: auto;
+        margin-left: 70px;
+        margin-top: -150px;
+      }
+      
+      
+      .h1mac{
+        margin-left: 10px;
+        font-size: 17px;
+        width: 350px;
+      }
+      
+      .h4mac{
+        text-align: center;
+        margin-top: 30px;
+        margin-left: -10px;
+        width: 300px;
+      }
+      
+      .imagenmac3{
+      margin-top: -520px;
+      width: 300px;
+      height: auto;
+      margin-right: 35px;
+      
+      }
+      
+      .h3mac{
+        margin-top: 300px;
+        text-align: center;
+        margin-left: -50px;
+      }
+      
+      .fundaciondos{
+        width: 300px;
+        height: 200px;
+        margin-left: -10px;
+      }
+      
+      }
+      
+}
+
+.fondomac{
+    background-color: rgb(255, 152, 0) ;
+  }
