@@ -28,8 +28,9 @@ body{
       
       
       .ferrari1 {
+        height: 120px;
         margin: 0 auto;
-        width: 200px;
+        width: auto;
         
         text-align: center;
        position: relative;
@@ -40,7 +41,9 @@ body{
       
       
       .imagen2 {
-        width: 100px;
+        height: 120px;
+        width: auto;
+        
         
       }
       
@@ -49,18 +52,20 @@ body{
         text-align: center;
         position: relative;
         display:inline-block;
-        height: 200px;
+        height: 120px;
         width: 200px;
         left: 20%;
       } 
       
       .imagen3 {
-        width: 100px;
+        width: 120px;
+        width: auto;
        
       }
       
       .mercedes {
-         width: 200px;
+         height: 120px;
+        width: auto;
          margin: 0 auto;
          text-align: center;
          position: relative;
@@ -74,7 +79,8 @@ body{
       }
       
       .mclaren {
-         width: 200px;
+         height: 120px;
+        width: 200px;
          margin: 0 auto;
          text-align: center;
          position: relative;
